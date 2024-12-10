@@ -27,4 +27,4 @@ La table artworks est liée aux autres tables par des clés étrangères (artist
 
 - Auteur : Pamela Limoges
 - GitHub : https://github.com/PamelaL17/TP2_MVC
-- Adresse URL du site sur WebDev : https://e2495515.webdev.cmaisonneuve.qc.ca/tp2_mvc/artists
+- Adresse URL du site sur WebDev : https://e2495515.webdev.cmaisonneuve.qc.ca/TP2_MVC/artists
